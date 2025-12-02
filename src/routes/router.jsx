@@ -12,6 +12,7 @@ import GameDetails from "../pages/GameDetails";
 import AboutUs from "../pages/AboutUs";
 import ContactUs from "../pages/Contact";
 import FAQ from "../pages/FAQ";
+import PrivacyPolicy from "../pages/PrivacyPolicy";
 
 
 const router = createBrowserRouter([
@@ -55,7 +56,11 @@ const router = createBrowserRouter([
         },
         {
             path: '/faq',
-            element: <FAQ></FAQ>
+            element: <FAQ></FAQ>,
+        },
+        {
+            path: '/privacy-policy',
+            element: <PrivacyPolicy/>,
         },
     ]
   },
