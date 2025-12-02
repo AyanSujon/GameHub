@@ -29,7 +29,7 @@ const featuredGames = games.slice(3, 6);
 // console.log(featuredGames);
 
     return (
-        <div>
+        <div className={"overflow-hidden"}>
             <Hero/>
             
             <Container>

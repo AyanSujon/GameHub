@@ -29,37 +29,37 @@ const Hero = () => {
  
   return (
 
-    <div className="w-full h-screen flex justify-center items-center overflow-hidden">
+    <div className="w-full h-[70%] flex justify-center items-center overflow-hidden">
       <div ref={carouselRef} className="carousel w-full h-full">
-        <div className="carousel-item w-full h-full">
+        <div className="carousel-item w-full h-[400px]">
           <img
             src="https://i.ibb.co.com/ZRTDtG3p/slider1.webp"
             className="w-full h-full object-cover"
             alt="Slide 1"
           />
         </div>
-        <div className="carousel-item w-full h-full">
+        <div className="carousel-item w-full h-[400px]">
           <img
             src="https://i.ibb.co.com/1YRVF1vW/slider2.webp"
             className="w-full h-full object-cover"
             alt="Slide 2"
           />
         </div>
-        <div className="carousel-item w-full h-full">
+        <div className="carousel-item w-full h-[400px]">
           <img
             src="https://i.ibb.co.com/1YRVF1vW/slider3.webp"
             className="w-full h-full object-cover"
             alt="Slide 3"
           />
         </div>
-        <div className="carousel-item w-full h-full">
+        <div className="carousel-item w-full h-[400px]">
           <img
             src="https://i.ibb.co.com/1YRVF1vW/slider4.webp"
             className="w-full h-full object-cover"
             alt="Slide 4"
           />
         </div>
-        <div className="carousel-item w-full h-full">
+        <div className="carousel-item w-full h-[400px]">
           <img
             src="https://i.ibb.co.com/1YRVF1vW/slider5.webp"
             className="w-full h-full object-cover"
