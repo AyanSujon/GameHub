@@ -14,6 +14,7 @@ import ContactUs from "../pages/Contact";
 import FAQ from "../pages/FAQ";
 import PrivacyPolicy from "../pages/PrivacyPolicy";
 import TermsAndConditions from "../pages/TermsAndConditions";
+import HelpCenter from "../pages/HelpCenter";
 
 
 const router = createBrowserRouter([
@@ -66,6 +67,10 @@ const router = createBrowserRouter([
         {
             path: '/terms',
             element: <TermsAndConditions/>
+        },
+        {
+            path: '/support',
+            element: <HelpCenter/>,
         },
     ]
   },
