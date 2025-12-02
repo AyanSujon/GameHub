@@ -7,7 +7,19 @@
     "downloadLink": "https://www.pubgmobile.com/en-US/home.shtml",
     "description": "PUBG Mobile is a fast-paced battle royale game where players fight for survival, strategy, and victory on dynamic maps.",
     "ratings": "4.5",
-    "developer": "Krafton"
+    "developer": "Krafton",
+    "fullDescription0": "PUBG is an online multiplayer battle royale game where players fight for survival on a shrinking map, using strategy, weapons, and teamwork to be the last one standing.",
+    "releaseDate": "2017-03-23",
+    "platforms": ["PC", "Xbox", "PlayStation", "Mobile"],
+    "fileSize": "30 GB",
+    "gameModes": ["Multiplayer"],
+    "ageRating": "16+",
+    "maps": ["Erangel", "Miramar", "Sanhok", "Vikendi"],
+    "systemRequirements": {
+      "min": {"ram": "4 GB", "os": "Windows 7"},
+      "recommended": {"ram": "8 GB", "os": "Windows 10"}
+    },
+    "socialLinks": {"facebook": "https://www.facebook.com/PUBG/", "youtube": "https://www.youtube.com/@PUBG"}
   },
   {
     "id": "2",
@@ -17,7 +29,19 @@
     "downloadLink": "https://playvalorant.com/",
     "description": "Valorant is a tactical hero shooter where strategy, precision, and teamwork decide victory.",
     "ratings": "4.7",
-    "developer": "Riot Games"
+    "developer": "Riot Games",
+    "fullDescription0": "Valorant is a team-based tactical shooter combining precise gunplay with unique agent abilities, promoting strategy and teamwork.",
+    "releaseDate": "2020-06-02",
+    "platforms": ["PC"],
+    "fileSize": "10 GB",
+    "gameModes": ["Multiplayer"],
+    "ageRating": "16+",
+    "maps": ["Bind", "Haven", "Split", "Ascent"],
+    "systemRequirements": {
+      "min": {"ram": "4 GB", "os": "Windows 7"},
+      "recommended": {"ram": "8 GB", "os": "Windows 10"}
+    },
+    "socialLinks": {"facebook": "https://www.facebook.com/PlayVALORANT/", "youtube": "https://www.youtube.com/@PlayVALORANT"}
   },
   {
     "id": "3",
@@ -27,7 +51,19 @@
     "downloadLink": "https://www.stardewvalley.net/",
     "description": "Stardew Valley lets you escape to a quiet countryside where you can farm, fish, and build a new life full of charm.",
     "ratings": "4.9",
-    "developer": "ConcernedApe"
+    "developer": "ConcernedApe",
+    "fullDescription0": "Stardew Valley is a farming simulation game where you grow crops, raise animals, fish, craft, and build relationships with villagers in a charming world.",
+    "releaseDate": "2016-02-26",
+    "platforms": ["PC", "Nintendo Switch", "PlayStation", "Xbox", "Mobile"],
+    "fileSize": "500 MB",
+    "gameModes": ["Single Player", "Multiplayer"],
+    "ageRating": "10+",
+    "maps": ["Pelican Town", "Cindersap Forest", "Beach", "Mountain"],
+    "systemRequirements": {
+      "min": {"ram": "2 GB", "os": "Windows 7"},
+      "recommended": {"ram": "4 GB", "os": "Windows 10"}
+    },
+    "socialLinks": {"facebook": "https://www.facebook.com/stardewvalleygame/", "youtube": "https://www.youtube.com/@StardewValley"}
   },
   {
     "id": "4",
@@ -37,7 +73,19 @@
     "downloadLink": "https://www.teamcherry.com.au/hollowknight",
     "description": "Hollow Knight is a challenging action-adventure set in a haunting underground kingdom full of secrets and beauty.",
     "ratings": "4.8",
-    "developer": "Team Cherry"
+    "developer": "Team Cherry",
+    "fullDescription0": "Hollow Knight is a Metroidvania action-adventure game featuring tight platforming, combat, exploration, and a hauntingly beautiful underground world.",
+    "releaseDate": "2017-02-24",
+    "platforms": ["PC", "Nintendo Switch", "PlayStation", "Xbox"],
+    "fileSize": "1 GB",
+    "gameModes": ["Single Player"],
+    "ageRating": "10+",
+    "maps": ["Hallownest", "Forgotten Crossroads", "Greenpath", "Deepnest"],
+    "systemRequirements": {
+      "min": {"ram": "4 GB", "os": "Windows 7"},
+      "recommended": {"ram": "8 GB", "os": "Windows 10"}
+    },
+    "socialLinks": {"facebook": "https://www.facebook.com/hollowknight/", "youtube": "https://www.youtube.com/@HollowKnight"}
   },
   {
     "id": "5",
@@ -47,7 +95,19 @@
     "downloadLink": "https://www.celestegame.com/",
     "description": "Celeste is a heartfelt platformer about climbing a mountain while battling personal struggles and tough challenges.",
     "ratings": "4.9",
-    "developer": "Maddy Makes"
+    "developer": "Maddy Makes",
+    "fullDescription0": "Celeste is a narrative-driven platformer that blends tight controls with an emotional story about perseverance. Players take on the role of Madeline, a young woman climbing Celeste Mountain while confronting her inner struggles. Each level offers handcrafted challenges, secret rooms, collectibles, and beautifully designed pixel art environments. The gameplay focuses on precise jumping, dashing, and wall climbing. Celeste is widely praised for its accessibility features, beautiful soundtrack, and deeply meaningful storytelling. The game encourages players through failure, turning each attempt into progress. With hundreds of levels, additional B-Side and C-Side challenges, and optional assist modes, Celeste is both heartwarming and demanding.",
+    "releaseDate": "2018-01-25",
+    "platforms": ["PC", "Nintendo Switch", "PlayStation", "Xbox"],
+    "fileSize": "1.2 GB",
+    "gameModes": ["Single Player"],
+    "ageRating": "10+",
+    "maps": ["Forsaken City", "Old Site", "Celestial Resort", "Golden Ridge", "Mirror Temple"],
+    "systemRequirements": {
+      "min": {"ram": "2 GB", "os": "Windows 7"},
+      "recommended": {"ram": "4 GB", "os": "Windows 10"}
+    },
+    "socialLinks": {"facebook": "https://www.facebook.com/celestegame", "youtube": "https://www.youtube.com/@celestegame"}
   },
   {
     "id": "6",
@@ -57,7 +117,19 @@
     "downloadLink": "https://www.innersloth.com/games/among-us/",
     "description": "Among Us is a multiplayer party game where teamwork and betrayal collide aboard a spaceship.",
     "ratings": "4.3",
-    "developer": "Innersloth"
+    "developer": "Innersloth",
+    "fullDescription0": "Among Us is an online multiplayer social deduction game where crewmates complete tasks while impostors sabotage the ship and eliminate crew members.",
+    "releaseDate": "2018-06-15",
+    "platforms": ["PC", "Mobile", "Nintendo Switch"],
+    "fileSize": "250 MB",
+    "gameModes": ["Multiplayer"],
+    "ageRating": "10+",
+    "maps": ["The Skeld", "MIRA HQ", "Polus", "Airship"],
+    "systemRequirements": {
+      "min": {"ram": "1 GB", "os": "Windows 7"},
+      "recommended": {"ram": "2 GB", "os": "Windows 10"}
+    },
+    "socialLinks": {"facebook": "https://www.facebook.com/amongusgame", "youtube": "https://www.youtube.com/@AmongUs"}
   },
   {
     "id": "7",
@@ -67,7 +139,19 @@
     "downloadLink": "https://dead-cells.com/",
     "description": "Dead Cells is a rogue-lite action platformer where you fight, explore, and adapt in a constantly changing castle.",
     "ratings": "4.6",
-    "developer": "Motion Twin"
+    "developer": "Motion Twin",
+    "fullDescription0": "Dead Cells is a rogue-lite, Metroidvania-inspired action-platformer where players explore procedurally generated levels, defeat enemies, and unlock abilities.",
+    "releaseDate": "2018-08-07",
+    "platforms": ["PC", "Nintendo Switch", "PlayStation", "Xbox"],
+    "fileSize": "500 MB",
+    "gameModes": ["Single Player"],
+    "ageRating": "10+",
+    "maps": ["Prisoners’ Quarters", "Forgotten Sepulcher", "Slumbering Sanctuary", "Infected Sewers"],
+    "systemRequirements": {
+      "min": {"ram": "2 GB", "os": "Windows 7"},
+      "recommended": {"ram": "4 GB", "os": "Windows 10"}
+    },
+    "socialLinks": {"facebook": "https://www.facebook.com/deadcellsgame", "youtube": "https://www.youtube.com/@DeadCells"}
   },
   {
     "id": "8",
@@ -77,7 +161,19 @@
     "downloadLink": "https://www.minecraft.net/",
     "description": "Minecraft lets players build, explore, and survive in a blocky, procedurally generated 3D world of creativity.",
     "ratings": "4.8",
-    "developer": "Mojang Studios"
+    "developer": "Mojang Studios",
+    "fullDescription0": "Minecraft is a sandbox game where players can build structures, explore infinite worlds, mine resources, and survive in a block-based universe.",
+    "releaseDate": "2011-11-18",
+    "platforms": ["PC", "Nintendo Switch", "PlayStation", "Xbox", "Mobile"],
+    "fileSize": "200 MB",
+    "gameModes": ["Single Player", "Multiplayer"],
+    "ageRating": "7+",
+    "maps": ["Overworld", "Nether", "End"],
+    "systemRequirements": {
+      "min": {"ram": "2 GB", "os": "Windows 7"},
+      "recommended": {"ram": "4 GB", "os": "Windows 10"}
+    },
+    "socialLinks": {"facebook": "https://www.facebook.com/minecraft", "youtube": "https://www.youtube.com/@Minecraft"}
   },
   {
     "id": "9",
@@ -87,7 +183,19 @@
     "downloadLink": "https://cupheadgame.com/",
     "description": "Cuphead is a run-and-gun adventure featuring hand-drawn 1930s-style animation and challenging boss battles.",
     "ratings": "4.7",
-    "developer": "Studio MDHR"
+    "developer": "Studio MDHR",
+    "fullDescription0": "Cuphead is a classic run-and-gun game with challenging bosses and hand-drawn animations inspired by 1930s cartoons.",
+    "releaseDate": "2017-09-29",
+    "platforms": ["PC", "Xbox", "Nintendo Switch", "PlayStation"],
+    "fileSize": "2 GB",
+    "gameModes": ["Single Player", "Multiplayer"],
+    "ageRating": "10+",
+    "maps": ["Inkwell Isle I", "Inkwell Isle II", "Inkwell Isle III"],
+    "systemRequirements": {
+      "min": {"ram": "2 GB", "os": "Windows 7"},
+      "recommended": {"ram": "4 GB", "os": "Windows 10"}
+    },
+    "socialLinks": {"facebook": "https://www.facebook.com/cupheadgame", "youtube": "https://www.youtube.com/@Cuphead"}
   },
   {
     "id": "10",
@@ -97,7 +205,19 @@
     "downloadLink": "https://thewitcher.com/en/witcher3",
     "description": "The Witcher 3 is an epic open-world RPG filled with monsters, magic, and moral choices that shape your destiny.",
     "ratings": "5.0",
-    "developer": "CD Projekt Red"
+    "developer": "CD Projekt Red",
+    "fullDescription0": "The Witcher 3: Wild Hunt is an expansive open-world RPG where players take the role of Geralt of Rivia, battling monsters, making choices that affect the story, and exploring a rich world.",
+    "releaseDate": "2015-05-19",
+    "platforms": ["PC", "PlayStation", "Xbox", "Nintendo Switch"],
+    "fileSize": "50 GB",
+    "gameModes": ["Single Player"],
+    "ageRating": "18+",
+    "maps": ["Novigrad", "Skellige", "Velen", "Kaer Morhen"],
+    "systemRequirements": {
+      "min": {"ram": "6 GB", "os": "Windows 7"},
+      "recommended": {"ram": "12 GB", "os": "Windows 10"}
+    },
+    "socialLinks": {"facebook": "https://www.facebook.com/witcher", "youtube": "https://www.youtube.com/@witcher"}
   },
   {
     "id": "11",
@@ -107,7 +227,19 @@
     "downloadLink": "https://www.supergiantgames.com/games/hades/",
     "description": "Hades is a fast-paced dungeon crawler where you fight your way out of the Underworld with powerful mythic abilities.",
     "ratings": "4.9",
-    "developer": "Supergiant Games"
+    "developer": "Supergiant Games",
+    "fullDescription0": "Hades is an action-packed rogue-like dungeon crawler where players fight through the Underworld, gaining new powers and unraveling the story of Greek gods.",
+    "releaseDate": "2020-09-17",
+    "platforms": ["PC", "Nintendo Switch", "PlayStation", "Xbox"],
+    "fileSize": "15 GB",
+    "gameModes": ["Single Player"],
+    "ageRating": "16+",
+    "maps": ["House of Hades", "Styx River", "Asphodel", "Elysium"],
+    "systemRequirements": {
+      "min": {"ram": "4 GB", "os": "Windows 7"},
+      "recommended": {"ram": "8 GB", "os": "Windows 10"}
+    },
+    "socialLinks": {"facebook": "https://www.facebook.com/supergiantgames", "youtube": "https://www.youtube.com/@SupergiantGames"}
   },
   {
     "id": "12",
@@ -117,7 +249,19 @@
     "downloadLink": "https://www.ustwo.com/games/monument-valley/",
     "description": "Monument Valley is a stunning puzzle game about guiding a princess through impossible architecture and illusion.",
     "ratings": "4.7",
-    "developer": "ustwo games"
+    "developer": "ustwo games",
+    "fullDescription0": "Monument Valley is an artistic puzzle game where players manipulate impossible architecture to guide the silent princess, Ida, through surreal environments.",
+    "releaseDate": "2014-04-03",
+    "platforms": ["PC", "iOS", "Android"],
+    "fileSize": "400 MB",
+    "gameModes": ["Single Player"],
+    "ageRating": "3+",
+    "maps": ["Valley of Monument", "Forest of Dreams", "Mirror World"],
+    "systemRequirements": {
+      "min": {"ram": "1 GB", "os": "Windows 7"},
+      "recommended": {"ram": "2 GB", "os": "Windows 10"}
+    },
+    "socialLinks": {"facebook": "https://www.facebook.com/ustwo", "youtube": "https://www.youtube.com/@ustwo"}
   },
   {
     "id": "13",
@@ -127,17 +271,41 @@
     "downloadLink": "https://www.orithegame.com/",
     "description": "Ori and the Will of the Wisps is a beautifully animated platform adventure filled with emotion and exploration.",
     "ratings": "4.8",
-    "developer": "Moon Studios"
+    "developer": "Moon Studios",
+    "fullDescription0": "Ori and the Will of the Wisps is a visually stunning platformer with deep emotional storytelling, tight gameplay, and exploration across enchanting worlds.",
+    "releaseDate": "2020-03-11",
+    "platforms": ["PC", "Xbox", "Nintendo Switch"],
+    "fileSize": "10 GB",
+    "gameModes": ["Single Player"],
+    "ageRating": "10+",
+    "maps": ["Niwen Forest", "Inkwater Marsh", "Willow Grove", "Baur's Reach"],
+    "systemRequirements": {
+      "min": {"ram": "4 GB", "os": "Windows 10"},
+      "recommended": {"ram": "8 GB", "os": "Windows 10"}
+    },
+    "socialLinks": {"facebook": "https://www.facebook.com/orithegame", "youtube": "https://www.youtube.com/@Ori"}
   },
   {
     "id": "14",
-    "title": "Terraria",
+    "title": "Hollow Knight: Silksong",
     "coverPhoto": "https://i.ibb.co.com/20jqWw7c/Terraria.jpg",
-    "category": "Survival",
-    "downloadLink": "https://terraria.org/",
-    "description": "Terraria is a 2D sandbox adventure game where you can build, explore, and battle in endless procedurally generated worlds.",
-    "ratings": "4.6",
-    "developer": "Re-Logic"
+    "category": "Adventure",
+    "downloadLink": "https://www.teamcherry.com.au/silksong",
+    "description": "Hollow Knight: Silksong continues the epic Metroidvania adventure with new protagonist Hornet and breathtaking new worlds.",
+    "ratings": "4.9",
+    "developer": "Team Cherry",
+    "fullDescription0": "Hollow Knight: Silksong is a sequel to Hollow Knight, with new mechanics, combat, and exploration, introducing Hornet as the playable protagonist.",
+    "releaseDate": "2022-10-20",
+    "platforms": ["PC", "Nintendo Switch", "PlayStation", "Xbox"],
+    "fileSize": "2 GB",
+    "gameModes": ["Single Player"],
+    "ageRating": "10+",
+    "maps": ["Queen’s Gardens", "Fungal Wastes", "Resting Grounds"],
+    "systemRequirements": {
+      "min": {"ram": "4 GB", "os": "Windows 7"},
+      "recommended": {"ram": "8 GB", "os": "Windows 10"}
+    },
+    "socialLinks": {"facebook": "https://www.facebook.com/hollowknight/", "youtube": "https://www.youtube.com/@HollowKnight"}
   },
   {
     "id": "15",
@@ -145,18 +313,42 @@
     "coverPhoto": "https://i.ibb.co.com/n8q4Nbv2/Rocket-League.jpg",
     "category": "Sports",
     "downloadLink": "https://www.rocketleague.com/",
-    "description": "Rocket League combines soccer with rocket-powered cars in fast-paced, physics-driven matches full of style and skill.",
-    "ratings": "4.5",
-    "developer": "Psyonix"
+    "description": "Rocket League is a high-octane vehicular soccer game blending fast cars and competitive sports.",
+    "ratings": "4.6",
+    "developer": "Psyonix",
+    "fullDescription0": "Rocket League combines soccer with rocket-powered cars, offering competitive multiplayer matches and fun customization options.",
+    "releaseDate": "2015-07-07",
+    "platforms": ["PC", "PlayStation", "Xbox", "Nintendo Switch"],
+    "fileSize": "7 GB",
+    "gameModes": ["Multiplayer"],
+    "ageRating": "10+",
+    "maps": ["DFH Stadium", "Mannfield", "Beckwith Park"],
+    "systemRequirements": {
+      "min": {"ram": "4 GB", "os": "Windows 7"},
+      "recommended": {"ram": "8 GB", "os": "Windows 10"}
+    },
+    "socialLinks": {"facebook": "https://www.facebook.com/rocketleague", "youtube": "https://www.youtube.com/@RocketLeague"}
   },
   {
     "id": "16",
-    "title": "No Man’s Sky",
+    "title": "Fall Guys",
     "coverPhoto": "https://i.ibb.co.com/gLqSCh9P/No-Man-s-Sky.jpg",
-    "category": "Exploration",
-    "downloadLink": "https://www.nomanssky.com/",
-    "description": "No Man’s Sky is a vast open-world space exploration game where players discover unique planets, species, and adventures.",
+    "category": "Party",
+    "downloadLink": "https://fallguys.com/",
+    "description": "Fall Guys is a massively multiplayer party game with up to 60 players competing in chaotic obstacle courses.",
     "ratings": "4.4",
-    "developer": "Hello Games"
+    "developer": "Mediatonic",
+    "fullDescription0": "Fall Guys: Ultimate Knockout is a fun battle-royale-style party game where players compete through obstacle courses, mini-games, and eliminations to win the crown.",
+    "releaseDate": "2020-08-04",
+    "platforms": ["PC", "PlayStation", "Nintendo Switch", "Xbox"],
+    "fileSize": "2 GB",
+    "gameModes": ["Multiplayer"],
+    "ageRating": "7+",
+    "maps": ["Hex-A-Gone", "Door Dash", "Fall Mountain"],
+    "systemRequirements": {
+      "min": {"ram": "4 GB", "os": "Windows 10"},
+      "recommended": {"ram": "8 GB", "os": "Windows 10"}
+    },
+    "socialLinks": {"facebook": "https://www.facebook.com/fallguysgame", "youtube": "https://www.youtube.com/@FallGuys"}
   }
 ]

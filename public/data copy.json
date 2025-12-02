@@ -1,0 +1,162 @@
+[
+  {
+    "id": "1",
+    "title": "PlayerUnknown’s Battlegrounds: PUBG",
+    "coverPhoto": "https://i.ibb.co.com/Dg11G4Cq/download.jpg",
+    "category": "FPS",
+    "downloadLink": "https://www.pubgmobile.com/en-US/home.shtml",
+    "description": "PUBG Mobile is a fast-paced battle royale game where players fight for survival, strategy, and victory on dynamic maps.",
+    "ratings": "4.5",
+    "developer": "Krafton"
+  },
+  {
+    "id": "2",
+    "title": "Valorant",
+    "coverPhoto": "https://i.ibb.co.com/4ZnkcfXX/Valorant.png",
+    "category": "Shooter",
+    "downloadLink": "https://playvalorant.com/",
+    "description": "Valorant is a tactical hero shooter where strategy, precision, and teamwork decide victory.",
+    "ratings": "4.7",
+    "developer": "Riot Games"
+  },
+  {
+    "id": "3",
+    "title": "Stardew Valley",
+    "coverPhoto": "https://i.ibb.co.com/v4jPvM3J/Stardew-Valley.jpg",
+    "category": "Simulation",
+    "downloadLink": "https://www.stardewvalley.net/",
+    "description": "Stardew Valley lets you escape to a quiet countryside where you can farm, fish, and build a new life full of charm.",
+    "ratings": "4.9",
+    "developer": "ConcernedApe"
+  },
+  {
+    "id": "4",
+    "title": "Hollow Knight",
+    "coverPhoto": "https://i.ibb.co.com/7JVF5DFj/Hollow-Knight.jpg",
+    "category": "Adventure",
+    "downloadLink": "https://www.teamcherry.com.au/hollowknight",
+    "description": "Hollow Knight is a challenging action-adventure set in a haunting underground kingdom full of secrets and beauty.",
+    "ratings": "4.8",
+    "developer": "Team Cherry"
+  },
+  {
+    "id": "5",
+    "title": "Celeste",
+    "coverPhoto": "https://i.ibb.co.com/cKpGGYTQ/Celeste.png",
+    "category": "Platformer",
+    "downloadLink": "https://www.celestegame.com/",
+    "description": "Celeste is a heartfelt platformer about climbing a mountain while battling personal struggles and tough challenges.",
+    "ratings": "4.9",
+    "developer": "Maddy Makes"
+  },
+  {
+    "id": "6",
+    "title": "Among Us",
+    "coverPhoto": "https://i.ibb.co.com/nWd8Xjw/Among-Us.png",
+    "category": "Party",
+    "downloadLink": "https://www.innersloth.com/games/among-us/",
+    "description": "Among Us is a multiplayer party game where teamwork and betrayal collide aboard a spaceship.",
+    "ratings": "4.3",
+    "developer": "Innersloth"
+  },
+  {
+    "id": "7",
+    "title": "Dead Cells",
+    "coverPhoto": "https://i.ibb.co.com/3mXpW07N/Dead-Cells.jpg",
+    "category": "Action",
+    "downloadLink": "https://dead-cells.com/",
+    "description": "Dead Cells is a rogue-lite action platformer where you fight, explore, and adapt in a constantly changing castle.",
+    "ratings": "4.6",
+    "developer": "Motion Twin"
+  },
+  {
+    "id": "8",
+    "title": "Minecraft",
+    "coverPhoto": "https://i.ibb.co.com/k2qVt2Yf/Minecraft.jpg",
+    "category": "Sandbox",
+    "downloadLink": "https://www.minecraft.net/",
+    "description": "Minecraft lets players build, explore, and survive in a blocky, procedurally generated 3D world of creativity.",
+    "ratings": "4.8",
+    "developer": "Mojang Studios"
+  },
+  {
+    "id": "9",
+    "title": "Cuphead",
+    "coverPhoto": "https://i.ibb.co.com/VYnzbv9d/Cuphead.jpg",
+    "category": "Run and Gun",
+    "downloadLink": "https://cupheadgame.com/",
+    "description": "Cuphead is a run-and-gun adventure featuring hand-drawn 1930s-style animation and challenging boss battles.",
+    "ratings": "4.7",
+    "developer": "Studio MDHR"
+  },
+  {
+    "id": "10",
+    "title": "The Witcher 3: Wild Hunt",
+    "coverPhoto": "https://i.ibb.co.com/NgWfsDTk/The-Witcher.jpg",
+    "category": "RPG",
+    "downloadLink": "https://thewitcher.com/en/witcher3",
+    "description": "The Witcher 3 is an epic open-world RPG filled with monsters, magic, and moral choices that shape your destiny.",
+    "ratings": "5.0",
+    "developer": "CD Projekt Red"
+  },
+  {
+    "id": "11",
+    "title": "Hades",
+    "coverPhoto": "https://i.ibb.co.com/0RMN1G8h/Hades.jpg",
+    "category": "Rogue-like",
+    "downloadLink": "https://www.supergiantgames.com/games/hades/",
+    "description": "Hades is a fast-paced dungeon crawler where you fight your way out of the Underworld with powerful mythic abilities.",
+    "ratings": "4.9",
+    "developer": "Supergiant Games"
+  },
+  {
+    "id": "12",
+    "title": "Monument Valley",
+    "coverPhoto": "https://i.ibb.co.com/hFr3FYwv/Monument-Valley.jpg",
+    "category": "Puzzle",
+    "downloadLink": "https://www.ustwo.com/games/monument-valley/",
+    "description": "Monument Valley is a stunning puzzle game about guiding a princess through impossible architecture and illusion.",
+    "ratings": "4.7",
+    "developer": "ustwo games"
+  },
+  {
+    "id": "13",
+    "title": "Ori and the Will of the Wisps",
+    "coverPhoto": "https://i.ibb.co.com/hxGS6wBr/Ori-and-the-Will-of-the-Wisps.jpg",
+    "category": "Adventure",
+    "downloadLink": "https://www.orithegame.com/",
+    "description": "Ori and the Will of the Wisps is a beautifully animated platform adventure filled with emotion and exploration.",
+    "ratings": "4.8",
+    "developer": "Moon Studios"
+  },
+  {
+    "id": "14",
+    "title": "Terraria",
+    "coverPhoto": "https://i.ibb.co.com/20jqWw7c/Terraria.jpg",
+    "category": "Survival",
+    "downloadLink": "https://terraria.org/",
+    "description": "Terraria is a 2D sandbox adventure game where you can build, explore, and battle in endless procedurally generated worlds.",
+    "ratings": "4.6",
+    "developer": "Re-Logic"
+  },
+  {
+    "id": "15",
+    "title": "Rocket League",
+    "coverPhoto": "https://i.ibb.co.com/n8q4Nbv2/Rocket-League.jpg",
+    "category": "Sports",
+    "downloadLink": "https://www.rocketleague.com/",
+    "description": "Rocket League combines soccer with rocket-powered cars in fast-paced, physics-driven matches full of style and skill.",
+    "ratings": "4.5",
+    "developer": "Psyonix"
+  },
+  {
+    "id": "16",
+    "title": "No Man’s Sky",
+    "coverPhoto": "https://i.ibb.co.com/gLqSCh9P/No-Man-s-Sky.jpg",
+    "category": "Exploration",
+    "downloadLink": "https://www.nomanssky.com/",
+    "description": "No Man’s Sky is a vast open-world space exploration game where players discover unique planets, species, and adventures.",
+    "ratings": "4.4",
+    "developer": "Hello Games"
+  }
+]
