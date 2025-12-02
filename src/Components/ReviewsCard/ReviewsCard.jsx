@@ -59,25 +59,25 @@ export default function ReviewsCard() {
                 />
                 <div>
                   <h3 style={{ fontSize: '1.125rem', fontWeight: 'bold', color: '#ffffff' }}>{r.name}</h3>
-                  <p style={{ fontSize: '0.875rem', color: '#d1d5db' }}>{r.role}</p>
+                  <p style={{ fontSize: '0.875rem', color: '#d1d5dc' }}>{r.role}</p>
                 </div>
               </div>
               <div style={{ display: 'flex', marginBottom: '0.5rem' }}>
                 {Array.from({ length: 5 }).map((_, i) =>
                   i < r.rating ? (
-                    <FaStar key={i} style={{ color: '#facc15', marginRight: '0.25rem' }} />
+                    <FaStar key={i} style={{ color: '#eb3154', marginRight: '0.25rem' }} />
                   ) : (
                     <FaRegStar key={i} style={{ color: '#9ca3af', marginRight: '0.25rem' }} />
                   )
                 )}
               </div>
-              <p style={{ fontSize: '0.875rem', marginBottom: '0.5rem', color: '#ffffff' }}>
+              <p style={{ fontSize: '0.875rem', marginBottom: '0.5rem', color: '#d1d5dc' }}>
                 <strong>Game:</strong> {r.game_played}
               </p>
-              <p style={{ fontSize: '0.875rem', marginBottom: '0.5rem', color: '#ffffff' }}>
+              <p style={{ fontSize: '0.875rem', marginBottom: '0.5rem', color: '#d1d5dc' }}>
                 <strong>Date:</strong> {r.date}
               </p>
-              <p style={{ marginTop: 'auto', color: '#ffffff' }}>{r.review}</p>
+              <p style={{ marginTop: 'auto', color: '#d1d5dc' }}>{r.review}</p>
             </div>
           </SwiperSlide>
         ))}
