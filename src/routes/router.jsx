@@ -11,6 +11,7 @@ import PrivateRoute from "./PrivateRoute";
 import GameDetails from "../pages/GameDetails";
 import AboutUs from "../pages/AboutUs";
 import ContactUs from "../pages/Contact";
+import FAQ from "../pages/FAQ";
 
 
 const router = createBrowserRouter([
@@ -50,9 +51,15 @@ const router = createBrowserRouter([
         },
         {
             path: '/game-details/:id',
-            element: <PrivateRoute><GameDetails/></PrivateRoute>,
+            element: <GameDetails/>,
+        },
+        {
+            path: '/faq',
+            element: <FAQ></FAQ>
         },
     ]
   },
 ]);
 export default router; 
+
+

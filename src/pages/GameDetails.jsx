@@ -209,11 +209,11 @@ const GameDetails = () => {
         {/* Main Grid */}
         <div className="grid md:grid-cols-2 gap-10 items-start">
           {/* Cover Image */}
-          <div className="w-full">
+          <div className="w-full h-[300px]">
             <img
               src={game.coverPhoto}
               alt={game.title}
-              className="w-full rounded-2xl shadow-lg border-2 border-primary object-cover"
+              className="w-full h-full rounded-2xl shadow-lg border-2 border-primary object-cover"
             />
           </div>
 
