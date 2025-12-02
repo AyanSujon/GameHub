@@ -350,5 +350,49 @@
       "recommended": {"ram": "8 GB", "os": "Windows 10"}
     },
     "socialLinks": {"facebook": "https://www.facebook.com/fallguysgame", "youtube": "https://www.youtube.com/@FallGuys"}
+  },
+  {
+    "id": "17",
+    "title": "Fall Guys",
+    "coverPhoto": "https://i.ibb.co.com/gLqSCh9P/No-Man-s-Sky.jpg",
+    "category": "Party",
+    "downloadLink": "https://fallguys.com/",
+    "description": "Fall Guys is a massively multiplayer party game with up to 60 players competing in chaotic obstacle courses.",
+    "ratings": "4.4",
+    "developer": "Mediatonic",
+    "fullDescription0": "Fall Guys: Ultimate Knockout is a fun battle-royale-style party game where players compete through obstacle courses, mini-games, and eliminations to win the crown.",
+    "releaseDate": "2020-08-04",
+    "platforms": ["PC", "PlayStation", "Nintendo Switch", "Xbox"],
+    "fileSize": "2 GB",
+    "gameModes": ["Multiplayer"],
+    "ageRating": "7+",
+    "maps": ["Hex-A-Gone", "Door Dash", "Fall Mountain"],
+    "systemRequirements": {
+      "min": {"ram": "4 GB", "os": "Windows 10"},
+      "recommended": {"ram": "8 GB", "os": "Windows 10"}
+    },
+    "socialLinks": {"facebook": "https://www.facebook.com/fallguysgame", "youtube": "https://www.youtube.com/@FallGuys"}
+  },
+  {
+    "id": "18",
+    "title": "Fall Guys",
+    "coverPhoto": "https://i.ibb.co.com/gLqSCh9P/No-Man-s-Sky.jpg",
+    "category": "Party",
+    "downloadLink": "https://fallguys.com/",
+    "description": "Fall Guys is a massively multiplayer party game with up to 60 players competing in chaotic obstacle courses.",
+    "ratings": "4.4",
+    "developer": "Mediatonic",
+    "fullDescription0": "Fall Guys: Ultimate Knockout is a fun battle-royale-style party game where players compete through obstacle courses, mini-games, and eliminations to win the crown.",
+    "releaseDate": "2020-08-04",
+    "platforms": ["PC", "PlayStation", "Nintendo Switch", "Xbox"],
+    "fileSize": "2 GB",
+    "gameModes": ["Multiplayer"],
+    "ageRating": "7+",
+    "maps": ["Hex-A-Gone", "Door Dash", "Fall Mountain"],
+    "systemRequirements": {
+      "min": {"ram": "4 GB", "os": "Windows 10"},
+      "recommended": {"ram": "8 GB", "os": "Windows 10"}
+    },
+    "socialLinks": {"facebook": "https://www.facebook.com/fallguysgame", "youtube": "https://www.youtube.com/@FallGuys"}
   }
 ]
