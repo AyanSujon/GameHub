@@ -13,6 +13,7 @@ import AboutUs from "../pages/AboutUs";
 import ContactUs from "../pages/Contact";
 import FAQ from "../pages/FAQ";
 import PrivacyPolicy from "../pages/PrivacyPolicy";
+import TermsAndConditions from "../pages/TermsAndConditions";
 
 
 const router = createBrowserRouter([
@@ -61,6 +62,10 @@ const router = createBrowserRouter([
         {
             path: '/privacy-policy',
             element: <PrivacyPolicy/>,
+        },
+        {
+            path: '/terms',
+            element: <TermsAndConditions/>
         },
     ]
   },
