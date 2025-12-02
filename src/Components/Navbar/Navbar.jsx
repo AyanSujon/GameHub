@@ -54,7 +54,7 @@ useEffect(() => {
 
 
     return (
-        <nav className='shadow-sm hover-black '>
+        <nav className='shadow-sm hover-black sticky top-0 z-50'>
             <Container>
                 <div className="navbar">
                 <div className="navbar-start">
