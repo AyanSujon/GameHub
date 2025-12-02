@@ -1,0 +1,109 @@
+{
+  "reviews": [
+        {
+      "id": 1,
+      "name": "Rafi Ahmed",
+      "role": "Casual Gamer",
+      "avatar": "https://i.ibb.co/q3fBPpXP/avater.jpg",
+      "rating": 5,
+      "game_played": "Legends of Aether",
+      "date": "2025-01-12",
+      "review": "GameHub is amazing! The browsing experience is smooth and I love discovering new indie titles. The recommendations are always relevant."
+    },
+    {
+      "id": 2,
+      "name": "Nishat Rahman",
+      "role": "Pro FPS Player",
+      "avatar": "https://i.ibb.co/q3fBPpXP/avater.jpg",
+      "rating": 4,
+      "game_played": "Frontline Tactics",
+      "date": "2025-02-03",
+      "review": "The multiplayer community here is impressive. Player reviews help me choose games quickly. Would love to see more FPS tournament updates!"
+    },
+    {
+      "id": 3,
+      "name": "Samin Khan",
+      "role": "Mobile Gamer",
+      "avatar": "https://i.ibb.co/q3fBPpXP/avater.jpg",
+      "rating": 5,
+      "game_played": "Galaxy Runner",
+      "date": "2025-01-25",
+      "review": "The mobile game library is well organized. The UI is clean, fast, and easy to use. GameHub has become part of my daily gaming routine."
+    },
+    {
+      "id": 4,
+      "name": "Emily Parker",
+      "role": "RPG Enthusiast",
+      "avatar": "https://i.ibb.co/q3fBPpXP/avater.jpg",
+      "rating": 5,
+      "game_played": "Kingdoms Reborn",
+      "date": "2025-03-02",
+      "review": "I love the detailed game pages, especially the story summaries and gameplay mechanics. It feels like a true RPG hub built for fans."
+    },
+    {
+      "id": 5,
+      "name": "Leo Martinez",
+      "role": "Indie Game Explorer",
+      "avatar": "https://i.ibb.co/q3fBPpXP/avater.jpg",
+      "rating": 4,
+      "game_played": "Pixel Quest Adventures",
+      "date": "2025-02-18",
+      "review": "The indie game collection is fantastic. I've discovered so many hidden gems thanks to GameHub. Adding more filters would make it even better."
+    },
+    {
+      "id": 6,
+      "name": "Ayesha Siddique",
+      "role": "Strategy Gamer",
+      "avatar": "https://i.ibb.co/q3fBPpXP/avater.jpg",
+      "rating": 5,
+      "game_played": "Empire Tactics",
+      "date": "2025-03-15",
+      "review": "GameHub makes it easy to find complex strategy games. The ratings and reviews from other players are very helpful for planning my next moves."
+    },
+    {
+      "id": 7,
+      "name": "Zakir Hossain",
+      "role": "Casual Gamer",
+      "avatar": "https://i.ibb.co/q3fBPpXP/avater.jpg",
+      "rating": 4,
+      "game_played": "Mystic Legends",
+      "date": "2025-04-01",
+      "review": "The interface is smooth and intuitive. I enjoy checking the new releases section every week. GameHub keeps me up-to-date with the latest games."
+    },
+    {
+      "id": 8,
+      "name": "Sara Ahmed",
+      "role": "Platformer Fan",
+      "avatar": "https://i.ibb.co/q3fBPpXP/avater.jpg",
+      "rating": 5,
+      "game_played": "Jump Quest",
+      "date": "2025-03-22",
+      "review": "Platformers have never been easier to find! I love the recommendations and the clear screenshots. It really enhances my gaming experience."
+    },
+    {
+      "id": 9,
+      "name": "Riad Chowdhury",
+      "role": "Puzzle Solver",
+      "avatar": "https://i.ibb.co/q3fBPpXP/avater.jpg",
+      "rating": 4,
+      "game_played": "Mind Maze",
+      "date": "2025-02-28",
+      "review": "Great collection of puzzle games! The review section is particularly useful to understand difficulty levels before starting a game."
+    },
+    {
+      "id": 10,
+      "name": "Maya Thompson",
+      "role": "Adventure Gamer",
+      "avatar": "https://i.ibb.co/q3fBPpXP/avater.jpg",
+      "rating": 5,
+      "game_played": "Quest for Glory",
+      "date": "2025-03-10",
+      "review": "Adventure games have never felt more engaging. The detailed descriptions, ratings, and community feedback make choosing the right game simple and fun."
+    }
+  ]
+}
+
+
+
+
+
